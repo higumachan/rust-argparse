@@ -286,7 +286,7 @@ The following actions are available out of the box. They may be used in either
     An option has no arguments. Increments the value stored in a variable by a
     value ``num``. Any type which has the ``Add`` and ``Clone`` traits may be used.
 
-``DecrBy(nym)``
+``DecrBy(num)``
     Decrements the value stored in a variable by a value ``num``. Any type
     which has the ``Add`` and ``Clone`` traits may be used.
 
